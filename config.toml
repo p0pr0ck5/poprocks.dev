@@ -1,4 +1,4 @@
-baseURL = "https://poprocks.dev/"
+baseURL = "https://poprocks.dev"
 languageCode = "en-us"
 title = "poprocks.dev"
 theme = "liquorice"
