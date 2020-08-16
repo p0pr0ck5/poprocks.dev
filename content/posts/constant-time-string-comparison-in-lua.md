@@ -1,7 +1,6 @@
 ---
 title: "Constant Time String Comparison in Lua"
 date: 2017-04-28T12:56:37-08:00
-draft: true
 ---
 
 ```lua
