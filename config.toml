@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "poprocks.dev"
 theme = "liquorice"
 
+pygmentsCodeFences = true
+pygmentsUseClasses = false
+
 [permalinks]
   posts = "/:title"
 
