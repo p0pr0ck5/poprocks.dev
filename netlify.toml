@@ -1,5 +1,5 @@
 [[redirects]]
   from = "https://cryptobells.com/*"
-  to = "https://poprocks.dev"
+  to = "https://poprocks.dev/:splat"
   status = 301
   force = true
